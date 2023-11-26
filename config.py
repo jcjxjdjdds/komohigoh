@@ -25,8 +25,8 @@ UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/jcjxjdjdds/komohigoh
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/TNT_source")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/Help_Tnt")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/S_MA4")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/S_MA4")
 
 SUPPORT_HEHE = SUPPORT_GROUP.split("me/")[1]
 
@@ -76,7 +76,7 @@ clean = {}
 autoclean = []
 
 
-START_IMG_URL = getenv("START_IMG_URL", "https://graph.org/file/c973727bddf803e028539.jpg")
+START_IMG_URL = getenv("START_IMG_URL", "https://telegra.ph/file/ee5511d9d2d10b09cb9e8.jpg")
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
